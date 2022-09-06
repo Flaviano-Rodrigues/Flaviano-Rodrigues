@@ -11,14 +11,14 @@ Olá! Meu nome é **Flaviano**, sou Desenvolvedor **Full-Stack** e estudante de 
 
 # Dia a dia:
 
-- Python
-- JavaScript
-- HTML
-- CSS
-- React.js
-- React Native
-- Firebase
-- Node.js
+- `Python`
+- `JavaScript`
+- `HTML`
+- `CSS`
+- `React.js`
+- `React Native`
+- `Firebase`
+- `Node.js`
 
 
 
