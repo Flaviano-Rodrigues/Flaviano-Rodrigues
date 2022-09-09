@@ -1,6 +1,12 @@
-# Sobre mim:
 
-[Email](mailto:flavianodev@gmail.com) | [Github](https://github.com/flaviano-rodrigues) | [Spotify](https://open.spotify.com/artist/6OO4dJHGlJ45k3vLAwwwfx?si=IIs0lNL8QFWGln7fGAP-Qg)
+
+  # Sobre mim: 
+  
+  [Email](mailto:flavianodev@gmail.com) | [Github](https://github.com/flaviano-rodrigues) | [Spotify](https://open.spotify.com/artist/6OO4dJHGlJ45k3vLAwwwfx?si=IIs0lNL8QFWGln7fGAP-Qg)
+  
+
+<br>
+
 
 Olá! Meu nome é **Flaviano**, sou Desenvolvedor **Full-Stack** e estudante de **Engenharia de Software** na **Universidade Unopar**. Atualmente estou no 2º período do curso e estou aprendendo a linguagem **Python** :)
 <br>
@@ -25,11 +31,21 @@ Olá! Meu nome é **Flaviano**, sou Desenvolvedor **Full-Stack** e estudante de 
 <br>
 <br>
 
+
+# Tutoriais:
+
+> Alguns tutorials feitos por mim :D
+
+- **[SQLite 3 - Banco de dados Nátivo do Python](https://github.com/Flaviano-Rodrigues/Tutorial-SQLite)**
+
+<br>
+<br>
+
 # Projetos Vendidos:
 
 > Por serem projetos vendidos, talvez eu não consiga disponibilizar o código fonte, mas vou tentar disponibilizar o máximo que eu conseguir e vou atualizando.
 
-- [x] **Taldo's Bar** - Feito com **React.js e Node**. (Site para jogar RPG online) *[Prévia](https://taldo-bars.web.app/)*
+- [x] **[Taldo's Bar](https://taldo-bars.web.app/)** - Feito com **React.js e Node**. (Site para jogar RPG online)
 - [x] **Doutor Cell v1** - Feito com **PHP**. (Site para Controle de estoque e financeiro)
 - [x] **Doutor Cell v2** - Feito com **React.js**. (Site para Controle de estoque e financeiro)
 - [x] **Flame Animes** - Feito com **PHP**. (Site para assistir animes)
@@ -55,9 +71,10 @@ Alguns destes projetos ainda estão em **desenvolvimento** e outros ja foram ent
 > Irei trazer cada projeto desse em um repositório.
 
 - [x] **Rastreador SEDEX** - Feito com **PHP**. (Algoritmo para rastrear encomendas)
-- [x] **Cálculo de IMC** - Feito com **Python**. (Algoritmo para calcular IMC)
-- [x] **Gerador de PDF's** - Feito com **React.js**. (Algoritmo para criar PDF's)
-- [x] **Calculadora** - Feito com **React Native**. (App para calcular)
+- [x] **Calculadora de IMC** - Feito com **Python**.
+- [x] [**Calculadora de IMC**](https://github.com/Flaviano-Rodrigues/Trabalho-Git-e-GitHub) - Feito com **Html, Css e Javascript.**
+- [x] **Gerador de PDF's** - Feito com **React.js**.
+- [x] **Calculadora completa** - Feito com **React Native**.
 
 <br>
 <br>
