@@ -25,6 +25,7 @@ Olá! Meu nome é **Flaviano**, sou Desenvolvedor **Full-Stack** e estudante de 
 - `React Native`
 - `Firebase`
 - `Node.js`
+- `Electron.js`
 
 
 
