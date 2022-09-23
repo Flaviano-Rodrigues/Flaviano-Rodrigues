@@ -53,10 +53,10 @@ Olá! Meu nome é **Flaviano**, sou Desenvolvedor **Full-Stack** e estudante de 
 - [x] **Flame Cursos** - Feito com **PHP**. (Site para venda de cursos)
 - [x] **Du bom Sorveteria** - Feito com **React.js**. (Site para Controle Financeiro)
 - [x] **Llawliet** - Feito com **PHP**. (Landing Page)
-- [x] **CRM Gráfica** - Feito com **React.js**. (Site para Controle de Clientes)
 - [x] **Vanilla Place** - Feito com **PHP**. (Site para venda de Rifas)
-- [ ] **Negocilar** - Feito com **React.js e Node**. (Site para Geren. completo de imoveis)
+- [ ] **Negocilar** - Feito com **React.js e Electron.js**. (Site para Geren. completo de imoveis)
 - [ ] **uStory** - Feito com **React Native e Node**. (Aplicativo para leitura de livros)
+- [ ] **SM Gráfica** - Feito com **React.js usando cloud Functions**. (Site para Controle de Clientes)
 
 <br>
 
