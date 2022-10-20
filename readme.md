@@ -95,15 +95,15 @@ Alguns destes projetos ainda estão em **desenvolvimento** e outros ja foram ent
 # Estatísticas do perfil:
 
 
-<!-- Removi das estatísticas apenas os diretórios de estudo -->
 
 <div align="center" > 
  
- <br>
+ <br> 
   
- 
+<!-- Removi das estatísticas apenas os diretórios de estudo -->
+ <!--
 ![Resumo do perfil](https://github-readme-stats.vercel.app/api?username=flaviano-rodrigues&show_icons=true&hide_border=true&border_radius=0&icon_color=fff&theme=dark&include_all_commits=true&count_private=true&custom_title=Geral:&hide_rank=true&card_width=300)
-
+-->
 
 ![Linguaguens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviano-rodrigues&hide_border=true&border_radius=0&theme=dark&layout=default&custom_title=Linguagens:&exclude_repo=Trabalho-Git-e-GitHub,hotel-transilvania,Desafio-T.EX)
   
