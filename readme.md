@@ -8,7 +8,7 @@
 <br>
 
 
-Olá! Meu nome é **Flaviano**, sou Desenvolvedor **Full-Stack** e estudante de **Engenharia de Software** na **Universidade Unopar**. Atualmente estou no 2º período do curso e estou aprendendo a linguagem **TypeScript** :)
+Olá! Meu nome é **Flaviano**, sou Desenvolvedor **Full-Stack** e estudante de **Engenharia de Software** na **Universidade Unopar**. Atualmente estou no 2º período do curso e estou aprendendo as linguagens **TypeScript** e **C#** :)
 <br>
 >Neste repositório, você encontrará este `readme.md` contando sobre mim. Porém futuramente estarei fazendo upload de varios algoritmos que estou aprendendo em **TypeScript** e também varios **códigos** em **JavaScript** que é minha linguagem de **paixão** que ja trabalho a **anos**.
 
@@ -28,6 +28,7 @@ Olá! Meu nome é **Flaviano**, sou Desenvolvedor **Full-Stack** e estudante de 
 - `Node.js`
 - `Electron.js`
 - `SQL`
+- `C#`
 
 
 
@@ -78,6 +79,7 @@ Alguns destes projetos ainda estão em **desenvolvimento** e outros ja foram ent
 - [x] [**Calculadora de IMC**](https://github.com/Flaviano-Rodrigues/Trabalho-Git-e-GitHub) - Feito com **Html, Css e Javascript.**
 - [x] **Gerador de PDF's** - Feito com **React.js**.
 - [x] **Calculadora completa** - Feito com **React Native**.
+- [x] **Calculadora Simples** - Feito com **C#**.
 - [ ] **Catálogo de Filmes** - Feito com **Angular e TypeScript(OO)**.
 
 <br>
