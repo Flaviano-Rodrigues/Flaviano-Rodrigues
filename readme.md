@@ -8,9 +8,9 @@
 <br>
 
 
-Olá! Meu nome é **Flaviano**, sou Desenvolvedor **Full-Stack** e estudante de **Engenharia de Software** na **Universidade Unopar**. Atualmente estou no 2º período do curso e estou aprendendo a linguagem **Python** :)
+Olá! Meu nome é **Flaviano**, sou Desenvolvedor **Full-Stack** e estudante de **Engenharia de Software** na **Universidade Unopar**. Atualmente estou no 2º período do curso e estou aprendendo a linguagem **TypeScript** :)
 <br>
->Neste repositório, você encontrará este `readme.md` contando sobre mim. Porém futuramente estarei fazendo upload de varios algoritmos que estou aprendendo em **python** e também varios **códigos** em **JavaScript** que é minha linguagem de **paixão** que ja trabalho a **anos**.
+>Neste repositório, você encontrará este `readme.md` contando sobre mim. Porém futuramente estarei fazendo upload de varios algoritmos que estou aprendendo em **TypeScript** e também varios **códigos** em **JavaScript** que é minha linguagem de **paixão** que ja trabalho a **anos**.
 
 <br>
 <br>
