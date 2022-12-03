@@ -75,12 +75,11 @@ Alguns destes projetos ainda estão em **desenvolvimento** e outros ja foram ent
 > Irei trazer cada projeto desse em um repositório.
 
 - [x] **Rastreador SEDEX** - Feito com **PHP**. (Algoritmo para rastrear encomendas)
-- [x] **Calculadora de IMC** - Feito com **Python**.
 - [x] [**Calculadora de IMC**](https://github.com/Flaviano-Rodrigues/Trabalho-Git-e-GitHub) - Feito com **Html, Css e Javascript.**
 - [x] **Gerador de PDF's** - Feito com **React.js**.
 - [x] **Calculadora completa** - Feito com **React Native**.
-- [x] **Calculadora Simples** - Feito com **C#**.
-- [ ] **Catálogo de Filmes** - Feito com **Angular e TypeScript(OO)**.
+- [x] **[Calculadora Simples](https://github.com/Flaviano-Rodrigues/Calculadora_CSharp)** - Feito com **C#**.
+- [ ] **[Catálogo de Filmes](https://github.com/Flaviano-Rodrigues/catalogo-filme)** - Feito com **Angular e TypeScript(OO)**.
 
 <br>
 <br>
