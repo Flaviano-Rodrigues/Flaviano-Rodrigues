@@ -19,6 +19,7 @@ Olá! Meu nome é **Flaviano**, sou Desenvolvedor **Full-Stack** e estudante de 
 
 - `Python`
 - `JavaScript`
+- `TypeScript`
 - `HTML`
 - `CSS`
 - `React.js`
@@ -56,7 +57,7 @@ Olá! Meu nome é **Flaviano**, sou Desenvolvedor **Full-Stack** e estudante de 
 - [x] **Du bom Sorveteria** - Feito com **React.js**. (Site para Controle Financeiro)
 - [x] **Llawliet** - Feito com **PHP**. (Landing Page)
 - [x] **Vanilla Place** - Feito com **PHP**. (Site para venda de Rifas)
-- [ ] **Negocilar** - Feito com **React.js e Electron.js**. (Site para Gerenciamento de imóveis)
+- [x] **Negocilar** - Feito com **React.js e Electron.js**. (Site para Gerenciamento de imóveis)
 - [ ] **uStory** - Feito com **React Native e Node**. (Aplicativo para leitura de livros)
 
 <br>
@@ -77,6 +78,7 @@ Alguns destes projetos ainda estão em **desenvolvimento** e outros ja foram ent
 - [x] [**Calculadora de IMC**](https://github.com/Flaviano-Rodrigues/Trabalho-Git-e-GitHub) - Feito com **Html, Css e Javascript.**
 - [x] **Gerador de PDF's** - Feito com **React.js**.
 - [x] **Calculadora completa** - Feito com **React Native**.
+- [ ] **Catálogo de Filmes** - Feito com **Angular e TypeScript(OO)**.
 
 <br>
 <br>
