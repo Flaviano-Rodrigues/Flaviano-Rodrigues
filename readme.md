@@ -45,6 +45,15 @@ Olá! Meu nome é **Flaviano**, sou Desenvolvedor **Full-Stack** e estudante de 
 <br>
 <br>
 
+# Pacotes:
+
+> Algumas Libs feitas para ajudar a comunidade.
+
+- **[FlaFormatter](https://www.npmjs.com/package/flaformatter) - Formatador de data, cpf/cnpj, cep, etc...**
+
+<br>
+<br>
+
 # Projetos Vendidos:
 
 > Por serem projetos vendidos, talvez eu não consiga disponibilizar o código fonte, mas vou tentar disponibilizar o máximo que eu conseguir e vou atualizando.
