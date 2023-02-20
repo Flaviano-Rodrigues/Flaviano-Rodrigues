@@ -28,6 +28,7 @@ Olá! Meu nome é **Flaviano**, sou Desenvolvedor **Full-Stack** e estudante de 
 - `Node.js`
 - `Electron.js`
 - `SQL`
+- `NoSQL`
 - `C#`
 
 
