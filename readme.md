@@ -22,11 +22,6 @@ Olá! Meu nome é **Flaviano**, sou Desenvolvedor **Full-Stack** e estudante de 
 - `TypeScript`
 - `HTML`
 - `CSS`
-- `React.js`
-- `React Native`
-- `Firebase`
-- `Node.js`
-- `Electron.js`
 - `SQL`
 - `NoSQL`
 - `C#`
@@ -55,21 +50,20 @@ Olá! Meu nome é **Flaviano**, sou Desenvolvedor **Full-Stack** e estudante de 
 <br>
 <br>
 
-# Projetos Vendidos:
+# Projetos em produção:
 
-> Por serem projetos vendidos, talvez eu não consiga disponibilizar o código fonte, mas vou tentar disponibilizar o máximo que eu conseguir e vou atualizando.
-
-- [x] **[Taldo's Bar](https://taldo-bars.web.app/)** - Feito com **React.js e Node**. (Site para jogar RPG online)
-- [x] **Doutor Cell v1** - Feito com **PHP**. (Site para Controle de estoque e financeiro)
-- [x] **Doutor Cell v2** - Feito com **React.js**. (Site para Controle de estoque e financeiro)
-- [x] **SM Gráfica** - Feito com **React.js usando Cloud Functions**. (Site para Controle de Clientes)
-- [x] **Flame Animes** - Feito com **PHP**. (Site para assistir animes)
-- [x] **Flame Cursos** - Feito com **PHP**. (Site para venda de cursos)
-- [x] **Du bom Sorveteria** - Feito com **React.js**. (Site para Controle Financeiro)
-- [x] **Llawliet** - Feito com **PHP**. (Landing Page)
-- [x] **Vanilla Place** - Feito com **PHP**. (Site para venda de Rifas)
-- [x] **Negocilar** - Feito com **React.js e Electron.js**. (Site para Gerenciamento de imóveis)
-- [ ] **uStory** - Feito com **React Native e Node**. (Aplicativo para leitura de livros)
+- [x] **[Orça Beer](https://orcabeer.com.br/)** - Aplicação mobile B2B de bebidas
+- [x] **[Taldo's Bar](https://taldo-bars.web.app/)** - Site para jogar RPG online
+- [x] **Doutor Cell v1** - Site para Controle de estoque e financeiro
+- [x] **Doutor Cell v2** - Site para Controle de estoque e financeiro
+- [x] **SM Gráfica** - Site para Controle de Clientes
+- [x] **Flame Animes** - Site para assistir animes
+- [x] **Flame Cursos** - Site para venda de cursos
+- [x] **Du bom Sorveteria** - Site para Controle Financeiro
+- [x] **Llawliet** - Landing Page para um youtuber
+- [x] **Vanilla Place** - Site para venda de Rifas
+- [x] **Negocilar** - Aplicação desktop para Gerenciamento de imóveis
+- [ ] **uStory** - Aplicação mobile para leitura de livros
 
 <br>
 
