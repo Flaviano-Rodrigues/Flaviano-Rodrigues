@@ -52,7 +52,8 @@ Olá! Meu nome é **Flaviano**, sou Desenvolvedor **Full-Stack** e estudante de 
 
 # Projetos em produção:
 
-- [x] **[Orça Beer](https://orcabeer.com.br/)** - Aplicação mobile B2B de bebidas
+- [x] **[Exposição da Qualidade](https://exposicaodaqualidade.einstein.br)** - Site para validação de trabalhos de medicina para o Hospital Albert Einstein
+- [x] **[Orça Beer](https://play.google.com/store/apps/details?id=com.app.orcabeer)** - Aplicação mobile B2B de bebidas android e IOS
 - [x] **[Taldo's Bar](https://taldo-bars.web.app/)** - Site para jogar RPG online
 - [x] **Doutor Cell v1** - Site para Controle de estoque e financeiro
 - [x] **Doutor Cell v2** - Site para Controle de estoque e financeiro
