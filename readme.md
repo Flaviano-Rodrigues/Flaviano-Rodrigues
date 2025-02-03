@@ -1,130 +1,73 @@
+# 👋 Sobre Mim
 
+[Email](mailto:flavianodev@gmail.com) | [GitHub](https://github.com/flaviano-rodrigues) | [LinkedIn](#) | [Spotify](https://open.spotify.com/artist/6OO4dJHGlJ45k3vLAwwwfx?si=IIs0lNL8QFWGln7fGAP-Qg)
 
-  # Sobre mim: 
+Olá! Meu nome é **Flaviano Rodrigues**, sou um **Desenvolvedor Full-Stack** apaixonado por tecnologia e inovação. Atualmente, estudo **Engenharia de Software** na **Universidade Unopar** (6º período) e possuo experiência em **JavaScript**, **TypeScript** e **C#**.
+
+Tenho um forte interesse em **desenvolvimento web e mobile**, além de contribuir para a comunidade de programação através de projetos, tutoriais e pacotes open-source. 🚀
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+- **Linguagens:** `TypeScript`, `JavaScript`, `Python`, `C#`, `Java`
+- **Front-End:** `React.js`, `Next.js`, `Angular`, `HTML`, `CSS`
+- **Back-End:** `Node.js`, `NestJS`, `Express.js`, `ASP.NET`
+- **Bancos de Dados:** `SQL`, `PostgreSQL`, `MongoDB`
+- **Ferramentas:** `Docker`, `Git`, `Linux`, `Prisma`
+
+---
+
+## 📂 Projetos Relevantes
+
+> Alguns dos projetos mais impactantes que desenvolvi.
+
+- ✅ **[Exposição da Qualidade](https://exposicaodaqualidade.einstein.br)** - Plataforma para validação de trabalhos médicos no **Hospital Albert Einstein**.
+- ✅ **[Orça Beer](https://play.google.com/store/apps/details?id=com.app.orcabeer)** - Aplicativo mobile B2B para o setor de bebidas, disponível para **Android e iOS**.
+- ✅ **[Dirty Roxx](https://dirtyroxx.com)** - Plataforma principal da banda **Dirty Roxx**.
+- ✅ **[Taldo's Bar](https://taldo-bars.web.app/)** - Plataforma para jogar RPG online.
+- ✅ **Doutor Cell v1 & v2** - Sistema de **controle de estoque e financeiro**.
+- ✅ **SM Gráfica** - Gerenciamento de clientes e pedidos para gráficas.
+- 🏗️ **uStory** - Aplicação mobile para **leitura de livros**, ainda em desenvolvimento.
+- 🏗️ **Orcy** - Aplicação mobile. Em breve...
+
+🔗 Explore mais projetos no meu [GitHub](https://github.com/flaviano-rodrigues).
+
+---
+
+## 📚 Tutoriais e Contribuições
+
+> Compartilho conhecimento com a comunidade!
+
+- 📘 **[SQLite 3 - Banco de Dados Nativo do Python](https://github.com/Flaviano-Rodrigues/Tutorial-SQLite)**
+- 📦 **[FlaFormatter](https://www.npmjs.com/package/flaformatter)** - Biblioteca para formatação de dados como CPF, CNPJ, CEP, etc.
+
+---
+
+## 🔁 Projetos Didáticos e Clones
+
+> Projetos criados para aprendizado e aprimoramento técnico.
+
+- ✅ **[Calculadora de IMC](https://github.com/Flaviano-Rodrigues/Trabalho-Git-e-GitHub)** - Feita com **HTML, CSS e JavaScript**.
+- ✅ **Gerador de PDFs** - Criado com **React.js**.
+- ✅ **[Calculadora Simples](https://github.com/Flaviano-Rodrigues/Calculadora_CSharp)** - Desenvolvido em **C#**.
+- ✅ **Clones:** Spotify, Instagram, Netflix, Facebook Login.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
   
-  [Email](mailto:flavianodev@gmail.com) | [Github](https://github.com/flaviano-rodrigues) | [Spotify](https://open.spotify.com/artist/6OO4dJHGlJ45k3vLAwwwfx?si=IIs0lNL8QFWGln7fGAP-Qg)
-  
-
-<br>
-
-
-Olá! Meu nome é **Flaviano**, sou Desenvolvedor **Full-Stack** e estudante de **Engenharia de Software** na **Universidade Unopar**. Atualmente estou no 2º período do curso e estou aprendendo as linguagens **TypeScript** e **C#** :)
-<br>
->Neste repositório, você encontrará este `readme.md` contando sobre mim. Porém futuramente estarei fazendo upload de varios algoritmos que estou aprendendo em **TypeScript** e também varios **códigos** em **JavaScript** que é minha linguagem de **paixão** que ja trabalho a **anos**.
-
-<br>
-<br>
-
-# Dia a dia:
-
-- `Python`
-- `JavaScript`
-- `TypeScript`
-- `HTML`
-- `CSS`
-- `SQL`
-- `NoSQL`
-- `C#`
-
-
-
-<br>
-<br>
-
-
-# Tutoriais:
-
-> Alguns tutorials feitos por mim :D
-
-- **[SQLite 3 - Banco de dados Nátivo do Python](https://github.com/Flaviano-Rodrigues/Tutorial-SQLite)**
-
-<br>
-<br>
-
-# Pacotes:
-
-> Algumas Libs feitas para ajudar a comunidade.
-
-- **[FlaFormatter](https://www.npmjs.com/package/flaformatter) - Formatador de data, cpf/cnpj, cep, etc...**
-
-<br>
-<br>
-
-# Projetos em produção:
-
-- [x] **[Exposição da Qualidade](https://exposicaodaqualidade.einstein.br)** - Site para validação de trabalhos de medicina para o Hospital Albert Einstein
-- [x] **[Orça Beer](https://play.google.com/store/apps/details?id=com.app.orcabeer)** - Aplicação mobile B2B de bebidas android e IOS
-- [x] **[Taldo's Bar](https://taldo-bars.web.app/)** - Site para jogar RPG online
-- [x] **Doutor Cell v1** - Site para Controle de estoque e financeiro
-- [x] **Doutor Cell v2** - Site para Controle de estoque e financeiro
-- [x] **SM Gráfica** - Site para Controle de Clientes
-- [x] **Flame Animes** - Site para assistir animes
-- [x] **Flame Cursos** - Site para venda de cursos
-- [x] **Du bom Sorveteria** - Site para Controle Financeiro
-- [x] **Llawliet** - Landing Page para um youtuber
-- [x] **Vanilla Place** - Site para venda de Rifas
-- [x] **Negocilar** - Aplicação desktop para Gerenciamento de imóveis
-- [ ] **uStory** - Aplicação mobile para leitura de livros
-
-<br>
-
-Alguns destes projetos ainda estão em **desenvolvimento** e outros ja foram entregues.
-
-<br>
-<br>
-
-# Projetos Didáticos:
-
-> Alguns projetos que fiz para estudar.
-
-> Irei trazer cada projeto desse em um repositório.
-
-- [x] **Rastreador SEDEX** - Feito com **PHP**. (Algoritmo para rastrear encomendas)
-- [x] [**Calculadora de IMC**](https://github.com/Flaviano-Rodrigues/Trabalho-Git-e-GitHub) - Feito com **Html, Css e Javascript.**
-- [x] **Gerador de PDF's** - Feito com **React.js**.
-- [x] **Calculadora completa** - Feito com **React Native**.
-- [x] **[Calculadora Simples](https://github.com/Flaviano-Rodrigues/Calculadora_CSharp)** - Feito com **C#**.
-- [ ] **[Catálogo de Filmes](https://github.com/Flaviano-Rodrigues/catalogo-filme)** - Feito com **Angular e TypeScript(OO)**.
-
-<br>
-<br>
-
-# Projetos Clones:
-
-> Alguns clones que fiz para estudar.
-
-- [x] **Spotify** - **Front-End** e **Back-End**.
-- [x] **Instagram** - **Front-End** e **Back-End**.
-- [x] **Netflix** - Somente **Front-End**.
-- [x] **Tela de Login do Facebook** - Somente **Front-End**.
-
-<br>
-<br>
-
-# Estatísticas do perfil:
-
-
-
-<div align="center" > 
- 
- <br> 
-  
-
- 
 ![Resumo do perfil](https://github-readme-stats.vercel.app/api?username=flaviano-rodrigues&show_icons=true&hide_border=true&border_radius=0&icon_color=fff&theme=dark&include_all_commits=true&count_private=true&custom_title=Geral:&hide_rank=true&card_width=300)
-
-<!-- Removi das estatísticas apenas os diretórios de estudo -->
-<!-- ![Linguaguens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviano-rodrigues&hide_border=true&border_radius=0&theme=dark&layout=default&custom_title=Linguagens:&exclude_repo=Trabalho-Git-e-GitHub,hotel-transilvania,Desafio-T.EX) -->
   
-
 </div>
 
-  
+---
 
-<br>
-<br>
-<br>
+## 🎯 Objetivo Profissional
 
-# Objetivo:
+💡 Busco **desafios inovadores** para desenvolver soluções impactantes e contribuir ativamente com a comunidade de tecnologia.
 
-### Somar com a comunidade. Vamos **programar** juntos e **aprender** muito! :D
+🚀 Vamos **criar, inovar e aprender juntos**! Se quiser trocar uma ideia ou colaborar, entre em contato! 😊
+
