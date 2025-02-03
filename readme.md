@@ -1,8 +1,8 @@
 # 👋 Sobre Mim
 
-[Email](mailto:flavianodev@gmail.com) | [GitHub](https://github.com/flaviano-rodrigues) | [LinkedIn](#) | [Spotify](https://open.spotify.com/artist/6OO4dJHGlJ45k3vLAwwwfx?si=IIs0lNL8QFWGln7fGAP-Qg)
+[Email](mailto:flavianodev@gmail.com) | [GitHub](https://github.com/flaviano-rodrigues) | [Spotify](https://open.spotify.com/artist/6OO4dJHGlJ45k3vLAwwwfx?si=IIs0lNL8QFWGln7fGAP-Qg)
 
-Olá! Meu nome é **Flaviano Rodrigues**, sou um **Desenvolvedor Full-Stack** apaixonado por tecnologia e inovação. Atualmente, estudo **Engenharia de Software** na **Universidade Unopar** (6º período) e possuo experiência em **JavaScript**, **TypeScript** e **C#**.
+Olá! Meu nome é **Flaviano Rodrigues**, sou um **Desenvolvedor Full-Stack** apaixonado por tecnologia e inovação. Atualmente, estudo **Engenharia de Software** na **Universidade Unopar** (6º período) e possuo experiência em **JavaScript**, **TypeScript** e etc...
 
 Tenho um forte interesse em **desenvolvimento web e mobile**, além de contribuir para a comunidade de programação através de projetos, tutoriais e pacotes open-source. 🚀
 
